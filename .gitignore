@@ -1,0 +1,14 @@
+# Distribution / packaging
+*.egg-info/
+*.egg
+dist/
+build/
+
+# cache
+__pycache__/
+
+# mypy
+.mypy_cache/
+
+# generated pyi files
+/matplotlib-stubs/pyplot.pyi

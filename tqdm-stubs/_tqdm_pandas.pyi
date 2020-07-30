@@ -1,0 +1,3 @@
+from typing import Any
+
+def tqdm_pandas(tclass: Any, *targs: Any, **tkwargs: Any) -> None: ...
